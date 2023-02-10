@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I am [Paul](https://www.linkedin.com/in/paul-marcombes/) an Open-Source Data-Products builder 🚀. 
+### I am [Paul](https://www.linkedin.com/in/paul-marcombes/): an Open-Source Data-Products builder 🚀. 
 
-
+---
 
 ***From Head of Data to open-source data-products builder***
 
@@ -12,7 +12,9 @@ My vision is to give data-power to business/product teams by making any data-ana
 
 I created **Unytics** to go further: provide open-source data tools / products to the worldwide data-community. 
 
-Products built so far are:
+---
+
+***Products built so far are:***
 
 - ⚡ **bigfunctions**: Supercharge BigQuery with open-source curated functions. 
 - ⚡ **simple_airbyte**: Simplify Airbyte Management via a lightweigth CLI and config files (no UI, no kubernetes cluster to manage, no database)
