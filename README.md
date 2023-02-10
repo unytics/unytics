@@ -21,5 +21,6 @@ I created **Unytics** to go further: provide open-source data tools / products t
 - ⚡ **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
 - ⚡ **[simple_airbyte](https://github.com/unytics/simple_airbyte)**: *Simplify Airbyte Management via a lightweigth CLI (no UI, no kubernetes cluster to manage, no database)*
 
+---
 
 ***You like it?***  👉 Star it ⭐ !
