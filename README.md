@@ -1,6 +1,8 @@
+---
+
 ### Hi there 👋, I am [Paul](https://www.linkedin.com/in/paul-marcombes/)
 
-### an *Open-Source Data-Products builder* 🚀. 
+### an *Open-Source Data-Products* builder 🚀. 
 
 ---
 
@@ -20,5 +22,4 @@ I created **Unytics** to go further: provide open-source data tools / products t
 - ⚡ **[simple_airbyte](https://github.com/unytics/simple_airbyte)**: *Simplify Airbyte Management via a lightweigth CLI (no UI, no kubernetes cluster to manage, no database)*
 
 
-***You like it?***
-Star it !
+***You like it?***  👉 Star it ⭐ !
