@@ -1,4 +1,6 @@
-### Hi there 👋. I am [Paul](https://www.linkedin.com/in/paul-marcombes/) an open-source data-products builder. 
+### Hi there 👋. 
+
+### I am [Paul](https://www.linkedin.com/in/paul-marcombes/) an open-source data-products builder. 
 
 
 
