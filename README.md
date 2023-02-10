@@ -6,7 +6,7 @@
 
 ---
 
-***From Head of Data to open-source data-products builder***
+***From Head of Data to Open-Source Data-Products builder***
 
 As Head of Data at Nickel, I scaled data-organization from 3 to 100+ data-practitioners. 
 
