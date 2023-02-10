@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I am [Paul](https://www.linkedin.com/in/paul-marcombes/), an *Open-Source Data-Products* builder 😃
+### Hi there 👋, I am [Paul](https://www.linkedin.com/in/paul-marcombes/), an *Open-Source Data-Product* builder 😃
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-***From Head of Data to Open-Source Data-Products builder***
+***From Head of Data to Open-Source Data-Product builder***
 
 As Head of Data at Nickel, I scaled data-organization from 3 to 100+ data-practitioners. 
 
