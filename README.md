@@ -4,7 +4,7 @@
 
 ### an *Open-Source Data-Products* builder 🚀. 
 
-<img src="https://lh3.googleusercontent.com/a-/AD5-WCkpXy9HsI3AIhN21Cjb0ITHqFAlYxq0PswuxIm4Ow=s300" style="border-radius: 50%;" >
+<img src="https://lh3.googleusercontent.com/a-/AD5-WCkpXy9HsI3AIhN21Cjb0ITHqFAlYxq0PswuxIm4Ow=s300" style="border-radius: 50%;">
 
 
 ---
