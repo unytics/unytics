@@ -4,7 +4,7 @@
 
 ### an *Open-Source Data-Products* builder 🚀. 
 
-![](https://images.weserv.nl/?url=lh3.googleusercontent.com/a-/AD5-WCkpXy9HsI3AIhN21Cjb0ITHqFAlYxq0PswuxIm4Ow=s300?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+<img style="border-radius: 50%;" src="https://lh3.googleusercontent.com/a-/AD5-WCkpXy9HsI3AIhN21Cjb0ITHqFAlYxq0PswuxIm4Ow=s300">
 
 ---
 
