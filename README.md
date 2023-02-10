@@ -4,10 +4,6 @@
 
 ### an *Open-Source Data-Products* builder 🚀. 
 
-<span style="border-radius:50%;">
-<img src="https://lh3.googleusercontent.com/a-/AD5-WCkpXy9HsI3AIhN21Cjb0ITHqFAlYxq0PswuxIm4Ow=s300">
-</span>
-
 ---
 
 ***From Head of Data to Open-Source Data-Products builder***
