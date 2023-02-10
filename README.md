@@ -10,10 +10,10 @@
 
 As Head of Data at Nickel, I scaled data-organization from 3 to 100+ data-practitioners. 
 
-My vision is to give data-power to data-analysts by making them autonomous on the whole data-chain: from data-collection to data-algorithm-deployments 
+My vision is to give data-power to data-analysts by making them autonomous on the whole data-chain: from data-collection to data-algorithm-deployments<br>
 👉 *we build data products for that*. 
 
-I created **Unytics** to go further as a personal project 
+I created **Unytics** to go further as a personal project<br>
 👉 *provide open-source data products to the worldwide data-community.* 🚀 
 
 ---
