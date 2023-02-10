@@ -3,6 +3,7 @@
 I am [Paul](https://www.linkedin.com/in/paul-marcombes/) an open-source data-products builder. 
 
 ***From Head of Data to open-source data-products builder***
+
 As Head of Data at Nickel, I scaled data-organization from 3 to 100+ data-practitioners. 
 
 My vision is to give data-power to business/product teams by making any data-analyst autonomous on the whole data-chain: from data-collection to data-algorithm-deployments. We build data products / tools for that. 
