@@ -4,6 +4,12 @@
 
 ### an *Open-Source Data-Products* builder 😃
 
+***Products built so far:***
+
+- ⚡ **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
+- ⚡ **[simple_airbyte](https://github.com/unytics/simple_airbyte)**: *Simplify Airbyte Management via a lightweigth CLI (no UI, no kubernetes cluster to manage, no database)*
+
+
 ---
 
 ***From Head of Data to Open-Source Data-Products builder***
@@ -16,13 +22,3 @@ My vision is to give data-power to data-analysts by making them autonomous on th
 I created **Unytics** to go further as a personal project<br>
 👉 *to provide open-source data products to the worldwide data-community.* 🚀 
 
----
-
-***Products built so far:***
-
-- ⚡ **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
-- ⚡ **[simple_airbyte](https://github.com/unytics/simple_airbyte)**: *Simplify Airbyte Management via a lightweigth CLI (no UI, no kubernetes cluster to manage, no database)*
-
----
-
-***You like it?***  👉 Star it ⭐ !
