@@ -4,13 +4,9 @@
 
 ---
 
-- <img src="https://github.com/unytics/unytics/assets/111615732/484feaa8-6ba9-436c-aa67-741fb18a17be" alt="logo_bigfunctions" width="60"/> ⚡ **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
-- ⚡ **[airbyte_serverless](https://github.com/unytics/airbyte_serverless)**: *Airbyte made simple (no UI, no database, no cluster)*
+- <img src="https://github.com/unytics/unytics/assets/111615732/484feaa8-6ba9-436c-aa67-741fb18a17be" alt="logo_bigfunctions" width="60"/> **[airbyte_serverless](https://github.com/unytics/airbyte_serverless)**: *Airbyte made simple (no UI, no database, no cluster)*
+- <img src="https://github.com/unytics/unytics/assets/111615732/484feaa8-6ba9-436c-aa67-741fb18a17be" alt="logo_airbyte_serverless" width="60"/> **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
 
-
-
-![logo airbyte_serverless]()
-![logo bigfunctions](https://github.com/unytics/unytics/assets/111615732/6c08e994-6d30-48e9-8aff-d64844c3a767)
 
 ---
 
