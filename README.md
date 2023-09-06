@@ -5,7 +5,7 @@
 ---
 
 - ⚡ **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
-- ⚡ **[simple_airbyte](https://github.com/unytics/simple_airbyte)**: *Airbyte made simple (no UI, no database, no cluster)*
+- ⚡ **[airbyte_serverless](https://github.com/unytics/airbyte_serverless)**: *Airbyte made simple (no UI, no database, no cluster)*
 
 
 ---
