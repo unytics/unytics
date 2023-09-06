@@ -4,7 +4,7 @@
 
 ---
 
-- <img src="[drawing.jpg](https://github.com/unytics/unytics/assets/111615732/484feaa8-6ba9-436c-aa67-741fb18a17be)" alt="logo_bigfunctions" width="60"/> ⚡ **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
+- <img src="https://github.com/unytics/unytics/assets/111615732/484feaa8-6ba9-436c-aa67-741fb18a17be" alt="logo_bigfunctions" width="60"/> ⚡ **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
 - ⚡ **[airbyte_serverless](https://github.com/unytics/airbyte_serverless)**: *Airbyte made simple (no UI, no database, no cluster)*
 
 
