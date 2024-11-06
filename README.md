@@ -13,7 +13,7 @@
 
 ***From Head of Data to open-source Data-Product builder***
 
-As Head of Data at Nickel, I scaled data-organization from 3 to 100+ data-practitioners. 
+As Head of Data at Nickel, I scaled data-organization from 3 to 200+ data-practitioners. 
 
 My vision is to give data-power to data-analysts by making them autonomous on the whole data-chain: from data-collection to data-algorithm-deployments<br>
 👉 *we build data products for that*. 
