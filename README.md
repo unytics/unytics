@@ -21,4 +21,3 @@ My vision is to give data-power to data-analysts by making them autonomous on th
 I created **Unytics** to go further as a personal project<br>
 👉 *to provide open-source data products to the worldwide data-community.* 🚀 
 
-![logo (2)]()
