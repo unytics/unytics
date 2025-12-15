@@ -6,7 +6,8 @@
 
 - <img src="https://github.com/unytics/unytics/assets/111615732/a3399f0e-7d86-45ec-acf9-3a572eaade74" alt="logo_airbyte_serverless" width="60"/> **[bigfunctions](https://github.com/unytics/bigfunctions)**: *Supercharge BigQuery with open-source curated functions.*
 - <img src="https://github.com/unytics/unytics/assets/111615732/484feaa8-6ba9-436c-aa67-741fb18a17be" alt="logo_airbyte_serverless" width="60"/> **[airbyte_serverless](https://github.com/unytics/airbyte_serverless)**: *Airbyte made simple (no UI, no database, no cluster)*
-- <img src="https://github.com/unytics/unytics/assets/111615732/6edd2296-d0b1-4d35-86c6-a8c2499b287d" alt="logo_catalog_builder" width="60"/> **[catalog_builder](https://github.com/unytics/catalog_builder)**: *Data Catalogs Made Easy*
+- <img src="https://unytics.io/assets/logo_static_bi.svg" alt="logo_static_bi" width="60"/> **[Static BI](https://github.com/unytics/static_bi)**: *Embed Analytics Everywhere*
+- <img src="https://unytics.io/assets/logo_catalog_builder.svg" alt="logo_catalog_builder" width="60"/> **[catalog_builder](https://github.com/unytics/catalog_builder)**: *Data Catalogs Made Easy*
 
 
 ---
